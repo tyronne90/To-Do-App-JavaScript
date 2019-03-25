@@ -1,0 +1,11 @@
+.badge {
+  cursor: pointer;
+}
+.card {
+  margin-top: 2%;
+  width: 400px;
+}
+
+.leftCol {
+  margin-left: 10%;
+}
